@@ -1,0 +1,11 @@
+#one{
+    font-size:25px;
+    line-height:50px;
+    text-transform:uppercase
+}
+#two{
+    font-family: Arial;
+    font-size: 30;
+    text-transform: uppercase;
+    text-decoration: dotted;
+}
