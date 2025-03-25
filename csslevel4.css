@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+div{
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    border: 1px dotted black;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+
+}
+#container{
+    height: 600px;
+    width: 600px;
+    display: flex;
+}
+#box1{
+    background-color: aquamarine;
+}
+#box2{
+    background-color: pink;
+    height: 200px;
+}
+#box3{
+    background-color: yellow;
+    height: 50px;
+}
+#box4{
+    background-color: rgb(24, 161, 58);
+}
+#box5{
+    background-color: rgb(235, 47, 235);
+}
